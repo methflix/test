@@ -16,4 +16,4 @@ else
   exit 1
 fi
 
-# Run Thorium Browser after installation
+# Done!
