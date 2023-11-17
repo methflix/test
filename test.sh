@@ -1,18 +1,17 @@
-#!/bin/bash
+#!/bin/sh
 
-echo "The following commands will be executed:"
-echo "sudo pacman -S sudo"
-echo "sudo pacman -S wmctrl"
-echo "xdotool"
-echo "paru -S libinput-gestures"
+echo "Select N if you using a Desktop y if you using a Laptop"
+echo "Do you want to proceed? [y/N]"
+read confirm
 
-read -p "Do you want to proceed? [y/N] " choice
-
-if [[ $choice == "y" || $choice == "Y" ]]; then
-  sudo pacman -S sudo
-  sudo pacman -S wmctrl
-  xdotool
-  paru -S libinput-gestures
-else
+if [ "$confirm" != "y" ]; then
   echo "Aborting..."
+  exit 1
 fi
+
+sudo pacman -S wmctrl xdotool
+sudo gpasswd -a $USER input
+
+echo "Installing libinput-gestures using Paru..."
+paru -S libinput-gestures
+```
