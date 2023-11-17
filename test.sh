@@ -9,9 +9,9 @@ if [ "$confirm" != "y" ]; then
   exit 1
 fi
 
-sudo pacman -S wmctrl xdotool
+sudo pacman -S wmctrl xdotool --noconfirm
 sudo gpasswd -a $USER input
 
 echo "Installing libinput-gestures using Paru..."
-paru -S libinput-gestures
+paru -S libinput-gestures --skipreview --noconfirm
 ```
