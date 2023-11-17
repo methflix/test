@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo "Select N if you using a Desktop. y if you using a Laptop"
+echo "Select N if you using a Desktop. Select y if you using a Laptop"
 echo "Do you want to proceed? [y/N]"
 read confirm
 
