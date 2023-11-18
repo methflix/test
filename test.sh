@@ -1,11 +1,13 @@
 #!/bin/bash
 
-echo "Choose a Thorium Browser package to install:"
-echo "1. thorium-browser-sse3-bin"
-echo "2. thorium-browser-bin"
-echo "3. Cancel installation"
+echo "This script will install Thorium Browser (SSE3 and regular), Firefox, and Brave Browser."
+echo "1. Thorium Browser (SSE3)"
+echo "2. Thorium Browser (regular)"
+echo "3. Firefox"
+echo "4. Brave Browser"
+echo "5. Cancel installation"
 
-read -p "Enter your choice (1, 2, or 3): " choice
+read -p "Enter your choice (1-5): " choice
 
 case $choice in
     1)
@@ -15,10 +17,18 @@ case $choice in
         paru -S thorium-browser-bin
         ;;
     3)
+        sudo pacman -S firefox
+        ;;
+    4)
+        paru -S brave-bin
+        ;;
+    5)
         echo "Installation canceled."
+        exit 1
         ;;
     *)
         echo "Invalid choice. Installation canceled."
+        exit 1
         ;;
 esac
 
