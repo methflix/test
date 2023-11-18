@@ -21,16 +21,16 @@ if [ "$confirmation" == "yes" ]; then
     for choice in $choices; do
         case $choice in
             1)
-                paru -S thorium-browser-sse3-bin
+                paru -S thorium-browser-sse3-bin --skipreview --noconfirm
                 ;;
             2)
-                paru -S thorium-browser-bin
+                paru -S thorium-browser-bin --skipreview --noconfirm
                 ;;
             3)
-                sudo pacman -S firefox
+                sudo pacman -S firefox --noconfirm
                 ;;
             4)
-                paru -S brave-bin
+                paru -S brave-bin --skipreview --noconfirm
                 ;;
             *)
                 echo "Invalid choice. Skipping."
@@ -53,8 +53,8 @@ echo "5. Add user to 'input' group"
 read -p "Do you want to continue? (yes/no): " confirmation
 
 if [ "$confirmation" == "yes" ]; then
-    sudo pacman -S wmctrl xdotool
-    paru -S libinput-gestures
+    sudo pacman -S wmctrl xdotool --noconfirm
+    paru -S libinput-gestures --skipreview --noconfirm
     sudo gpasswd -a $USER input
     echo "Installation completed."
 else
@@ -67,11 +67,9 @@ cd Tokyo-Night-GTK-Theme/
 sudo cp -r themes/Tokyonight-Dark-BL-LB /usr/share/themes/
 cd
 printf "%s%sDone!!%s\n" "${BLD}" "${CGR}" "${CNC}"
-sleep 2	  
-clear
+sleep 2
 
 logo "Setup TimeZone Asia/Manila.."
 sudo timedatectl set-timezone Asia/Manila >/dev/null 2>&1
 printf "%s%sSuccesfully!%s\n" "${BLD}" "${CGR}" "${CNC}"
 sleep 2
-clear
