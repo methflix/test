@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "This script will install Thorium Browser (SSE3 and regular), Firefox, and Brave Browser."
-echo "1. Thorium Browser (SSE3)"
+echo "1. Thorium Browser (SSE3 Version on Older Computers)"
 echo "2. Thorium Browser (regular)"
 echo "3. Firefox"
 echo "4. Brave Browser"
