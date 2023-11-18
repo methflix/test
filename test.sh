@@ -30,8 +30,7 @@ while true; do
         *)
             echo "Invalid choice. Please enter a number between 1 and 5."
             ;;
-    esac
-done
+fi
 
 echo "This script will install touchpad gestures if you using a desktop type no:"
 echo "1. wmctrl"
