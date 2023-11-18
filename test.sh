@@ -22,7 +22,7 @@ case $choice in
         ;;
 esac
 
-echo "This script will install the following packages and add the user to the 'input' group:"
+echo "This script will install touchpad gestures if you using a desktop type no:"
 echo "1. wmctrl"
 echo "2. xdotool"
 echo "3. paru"
