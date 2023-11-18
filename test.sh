@@ -5,32 +5,32 @@ echo "1. Thorium Browser (SSE3)"
 echo "2. Thorium Browser (regular)"
 echo "3. Firefox"
 echo "4. Brave Browser"
-echo "5. Quit installation"
+echo "5. Do not continue with the installation"
 
-while true; do
-    read -p "Enter your choice (1-5): " choice
+read -p "Enter your choice (1-5): " choice
 
-    case $choice in
-        1)
-            paru -S thorium-browser-sse3-bin
-            ;;
-        2)
-            paru -S thorium-browser-bin
-            ;;
-        3)
-            sudo pacman -S firefox
-            ;;
-        4)
-            paru -S brave-bin
-            ;;
-        5)
-            echo "Installation canceled."
-            exit 0
-            ;;
-        *)
-            echo "Invalid choice. Please enter a number between 1 and 5."
-            ;;
-fi
+case $choice in
+    1)
+        paru -S thorium-browser-sse3-bin
+        ;;
+    2)
+        paru -S thorium-browser-bin
+        ;;
+    3)
+        sudo pacman -S firefox
+        ;;
+    4)
+        paru -S brave-bin
+        ;;
+    5)
+        echo "Installation canceled. No packages were installed."
+        exit 0
+        ;;
+    *)
+        echo "Invalid choice. Installation canceled."
+        exit 1
+        ;;
+esac
 
 echo "This script will install touchpad gestures if you using a desktop type no:"
 echo "1. wmctrl"
