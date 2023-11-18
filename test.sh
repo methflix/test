@@ -1,26 +1,20 @@
 #!/bin/bash
 
-echo "Choose a Thorium Browser package to install:"
-echo "1. thorium-browser-sse3-bin"
-echo "2. thorium-browser-bin"
-echo "3. Cancel installation"
+# Prompt user to select installation type
+echo "Please select the installation type:"
+echo "1. Thorium Browser with SSE3 support"
+echo "2. Thorium Browser without SSE3 support"
+read -p "Enter your choice (1/2): " choice
 
-read -p "Enter your choice (1, 2, or 3): " choice
-
-case $choice in
-    1)
-        paru -S thorium-browser-sse3-bin
-        ;;
-    2)
-        paru -S thorium-browser-bin
-        ;;
-    3)
-        echo "Installation canceled."
-        ;;
-    *)
-        echo "Invalid choice. Installation canceled."
-        ;;
-esac
+# Install Thorium Browser with SSE3 support
+if [[ $choice -eq 1 ]]; then
+  paru -S thorium-browser-sse3-bin --skipreview --noconfirm
+elif [[ $choice -eq 2 ]]; then
+  paru -S thorium-browser-bin --skipreview --noconfirm
+else
+  echo "Invalid choice. Exiting script."
+  exit 1
+fi
 
 echo "Type N if you using a Desktop. Type y if you using a Laptop"
 echo "Do you want to proceed? [y/N]"
@@ -31,12 +25,23 @@ if [ "$confirm" != "y" ]; then
   exit 1
 fi
 
-sudo pacman -S wmctrl xdotool --noconfirm
-sudo gpasswd -a $USER input
+echo "This script will install the following packages and add the user to the 'input' group:"
+echo "1. wmctrl"
+echo "2. xdotool"
+echo "3. paru"
+echo "4. libinput-gestures"
+echo "5. Add user to 'input' group"
 
-echo "Installing libinput-gestures using Paru..."
-paru -S libinput-gestures --skipreview --noconfirm
-```
+read -p "Do you want to continue? (yes/no): " confirmation
+
+if [ "$confirmation" == "yes" ]; then
+    sudo pacman -S wmctrl xdotool
+    paru -S libinput-gestures
+    sudo gpasswd -a $USER input
+    echo "Installation completed."
+else
+    echo "Installation canceled."
+fi
 
 logo "Installing Themes"				 
 git clone https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme.git
