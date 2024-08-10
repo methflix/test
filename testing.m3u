@@ -1,0 +1,301 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/jgy9LTs.png",[PH] KAPAMILYA CHANNEL
+http://103.152.216.26:8443/live/live/8CyKOe1HaSB6WuRsqAaxxA/1720006741/101.m3u8
+#EXTINF:-1 tvg-chno="2" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/qgy7oAa.png",[PH] GMA
+http://103.152.216.26:8443/live/live/8CyKOe1HaSB6WuRsqAaxxA/1720006741/98.m3u8
+#EXTINF:-1 tvg-chno="3" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/yMK7Fd5.png",[PH] GTV
+http://103.152.216.26:8443/live/live/8CyKOe1HaSB6WuRsqAaxxA/1720006741/103.m3u8
+#EXTINF:-1 tvg-chno="4" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/pKVWlvx.png",[PH] TV5
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+#EXTINF:-1 tvg-chno="5" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/btiNwYt.png",[PH] ONE SPORTS
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:F2:D0:BB&stream=731814&extension=ts
+#EXTINF:-1 tvg-chno="6" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/f4wFJot.png",[PH] A2Z
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:F2:D0:BB&stream=926206&extension=ts
+#EXTINF:-1 tvg-chno="7" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/YBkxJWe.png",[PH] PTV
+http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567738.ts
+#EXTINF:-1 tvg-chno="8" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/P1mCl2k.png",[PH] DZRH TV
+https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
+#EXTINF:-1 tvg-chno="9" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/Org4yTu.png",[PH] IBC 13
+http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567719.ts
+#EXTINF:-1 tvg-chno="10" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/ifzuml4.png",[PH] RPTV
+http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/rptv/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+#EXTINF:-1 tvg-chno="11" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/8wBd4cI.png",[PH] CLTV 36
+https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
+#EXTINF:-1 tvg-chno="12" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/sT3dZP5.png",[PH] ANC
+https://ancglobal-abscbn-ono.amagi.tv/playlist270_p.m3u8
+#EXTINF:-1 tvg-chno="13" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/a4b9nBM.png",[PH] TELERADYO
+https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-chno="14" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/9dMuFE1.png",[PH] ONE PH
+http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567732.ts
+#EXTINF:-1 tvg-chno="15" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/bmP06bk.png",[PH] ONE NEWS
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:F2:D0:BB&stream=926160&extension=ts
+#EXTINF:-1 tvg-chno="16" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/eBih2Jm.png",[PH] MPTV
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:F2:D0:BB&stream=926172&extension=ts
+#EXTINF:-1 tvg-chno="17" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/clzVWmF.png",[PH] PBA RUSH
+http://103.152.216.26:8443/live/live/8CyKOe1HaSB6WuRsqAaxxA/1720006741/134.m3u8
+#EXTINF:-1 tvg-chno="18" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/cR9H6cp.png",[PH] PINOY XTREME
+http://103.152.216.26:8443/live/live/8CyKOe1HaSB6WuRsqAaxxA/1720006741/142.m3u8
+#EXTINF:-1 tvg-chno="19" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/kiyqvrU.png",[PH] UAAP VARSITY
+http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/651752.ts
+#EXTINF:-1 tvg-chno="20" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/7f0CxjO.png",[PH] SOLAR FLIX
+http://103.152.216.26:8443/live/live/8CyKOe1HaSB6WuRsqAaxxA/1720006741/115.m3u8
+#EXTINF:-1 tvg-chno="21" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/Du6LQCi.png",[PH] BUKO CHANNEL
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:F2:D0:BB&stream=926198&extension=ts
+#EXTINF:-1 tvg-chno="22" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/oyiY5BK.png",[PH] SARI-SARI
+http://tv14s.xyz:8080/live/z5hs1N/523413/101824.ts
+#EXTINF:-1 tvg-chno="23" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/709Uy7N.png",[PH] PBO
+http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567735.ts
+#EXTINF:-1 tvg-chno="24" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/8y3fc3F.png",[PH] VIVA CINEMA
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/276531.ts
+#EXTINF:-1 tvg-chno="25" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/tDB6DHB.png",[PH] CINEMA ONE
+http://103.152.216.26:8443/live/live/8CyKOe1HaSB6WuRsqAaxxA/1720006741/152.m3u8
+#EXTINF:-1 tvg-chno="26" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/2Jn7QHG.png",[PH] CINEMO
+http://103.152.216.26:8443/live/live/8CyKOe1HaSB6WuRsqAaxxA/1720006741/104.m3u8
+#EXTINF:-1 tvg-chno="27" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/r7I69OA.png",[PH] JEEPNEY TV
+http://103.152.216.26:8443/live/live/8CyKOe1HaSB6WuRsqAaxxA/1720006741/165.m3u8
+#EXTINF:-1 tvg-chno="28" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/wvndOWF.png",[PH] CELESTIAL MOVIES PINOY
+http://103.152.216.26:8443/live/live/8CyKOe1HaSB6WuRsqAaxxA/1720006741/200.m3u8
+#EXTINF:-1 tvg-chno="29" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/54uYqVk.png",[PH] TVN MOVIES PINOY
+http://21tv.net:8789/play/live.php?mac=00:1A:79:5D:78:C6&stream=253481&extension=ts
+#EXTINF:-1 tvg-chno="30" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/ZbrvQpg.png",[PH] TMC
+http://103.152.216.26:8443/live/live/8CyKOe1HaSB6WuRsqAaxxA/1720006741/102.m3u8
+#EXTINF:-1 tvg-chno="31" group-title="[Wonypium] News" tvg-logo="https://i.imgur.com/17aSGgP.png",[NEWS] CNN
+http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/30204.ts
+#EXTINF:-1 tvg-chno="32" group-title="[Wonypium] News" tvg-logo="https://i.imgur.com/ASuVFay.png",[NEWS] BBC NEWS
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-chno="33" group-title="[Wonypium] News" tvg-logo="https://i.imgur.com/1bHnZjv.png",[NEWS] AL JAZEERA
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-chno="34" group-title="[Wonypium] News" tvg-logo="https://i.imgur.com/La3o9MU.png",[NEWS] BLOOMBERG
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-chno="35" group-title="[Wonypium] News" tvg-logo="https://i.imgur.com/SNaXf4g.png",[NEWS] CNBC
+http://ktpremium.xyz:2095/live/mmeettaaysys2367/898923yytrr1/26195.ts
+#EXTINF:-1 tvg-chno="36" group-title="[Wonypium] News" tvg-logo="https://i.imgur.com/yyoRhjH.png",[NEWS] FOX NEWS
+http://103.152.216.26:8443/live/live/8CyKOe1HaSB6WuRsqAaxxA/1720006741/125.m3u8
+#EXTINF:-1 tvg-chno="37" group-title="[Wonypium] News" tvg-logo="https://i.imgur.com/jNEGuBN.png",[NEWS] CNA
+http://21tv.net:8789/play/live.php?mac=00:1A:79:5D:78:C6&stream=253490&extension=ts
+#EXTINF:-1 tvg-chno="38" group-title="[Wonypium] News" tvg-logo="https://static.epg.best/in/WION.in.png",[NEWS] WION
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:F2:D0:BB&stream=282627&extension=ts
+#EXTINF:-1 tvg-chno="39" group-title="[Wonypium] News" tvg-logo="https://i.imgur.com/gxnHV9b.png",[NEWS] DEUTSCHE WELLE
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-chno="40" group-title="[Wonypium] News" tvg-logo="https://i.imgur.com/TjFLLgh.png",[NEWS] EURONEWS
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:F2:D0:BB&stream=249545&extension=ts
+#EXTINF:-1 tvg-chno="41" group-title="[Wonypium] VIP 1A - Series & Movies" tvg-logo="https://i.imgur.com/WZsIkUf.png",[VIP] STAR CHANNEL
+http://168.181.122.234:8000/play/a034
+#EXTINF:-1 tvg-chno="42" group-title="[Wonypium] VIP 1A - Series & Movies" tvg-logo="https://i.imgur.com/gHdcupw.png",[VIP] STAR WORLD
+http://d4k4u.com:2082/play/live.php?mac=00:1A:79:A1:9D:CF&stream=120308&extension=ts
+#EXTINF:-1 tvg-chno="43" group-title="[Wonypium] VIP 1A - Series & Movies" tvg-logo="https://i.imgur.com/ta5T9zo.png",[VIP] FX
+http://168.181.122.234:8000/play/a033
+#EXTINF:-1 tvg-chno="44" group-title="[Wonypium] VIP 1A - Series & Movies" tvg-logo="https://i.imgur.com/tDbuoAU.png",[VIP] AXN
+http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567696.ts
+#EXTINF:-1 tvg-chno="45" group-title="[Wonypium] VIP 1A - Series & Movies" tvg-logo="https://i.imgur.com/FaQPbmc.png",[VIP] ROCK ENTERTAINMENT
+https://zhangqun66.serv00.net/Smartv.php?id=Rockentertain
+#EXTINF:-1 tvg-chno="46" group-title="[Wonypium] VIP 1A - Series & Movies" tvg-logo="https://i.imgur.com/f6OKa4L.png",[VIP] HITS
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:F2:D0:BB&stream=926174&extension=ts
+#EXTINF:-1 tvg-chno="47" group-title="[Wonypium] VIP 1A - Series & Movies" tvg-logo="https://i.imgur.com/mzDBz3w.png",[VIP] HITS NOW
+http://ktpremium.xyz:2095/live/mmeettaaysys2367/898923yytrr1/25990.ts
+#EXTINF:-1 tvg-chno="48" group-title="[Wonypium] VIP 1A - Series & Movies" tvg-logo="https://i.imgur.com/5Qloxv0.png",[VIP] COMEDY CENTRAL
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:F2:D0:BB&stream=241875&extension=ts
+#EXTINF:-1 tvg-chno="49" group-title="[Wonypium] VIP 1A - Series & Movies" tvg-logo="https://i.imgur.com/XNCoX74.png",[VIP] PARAMOUNT NETWORK
+http://168.181.122.234:8000/play/a031
+#EXTINF:-1 tvg-chno="50" group-title="[Wonypium] VIP 1A - Series & Movies" tvg-logo="https://i.imgur.com/UhRluq1.png",[VIP] UNIVERSAL TV
+http://168.181.122.234:8000/play/a03e
+#EXTINF:-1 tvg-chno="51" group-title="[Wonypium] VIP 1A - Series & Movies" tvg-logo="https://i.imgur.com/Gw1mK4G.png",[VIP] SYFY
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:18:17:0A&stream=63018&extension=ts
+#EXTINF:-1 tvg-chno="52" group-title="[Wonypium] VIP 1A - Series & Movies" ttvg-logo="https://i.imgur.com/GKG8gyP.png",[VIP] 13 ULICA
+http://185.236.229.62:9981/play/a03o
+#EXTINF:-1 tvg-chno="53" group-title="[Wonypium] VIP 1A - Series & Movies" tvg-logo="https://i.imgur.com/K5wLIm0.png",[VIP] WARNER TV
+https://zhangqun66.serv00.net/Smartv.php?id=WarnerTV
+#EXTINF:-1 tvg-chno="54" group-title="[Wonypium] VIP 1A - Series & Movies" tvg-logo="https://i.imgur.com/J6Olkop.png",[VIP] TAP TV
+http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/66826.ts
+#EXTINF:-1 tvg-chno="55" group-title="[Wonypium] VIP 1A - Series & Movies" tvg-logo="https://i.imgur.com/e7xA7qK.png",[VIP] TAP EDGE
+http://21tv.net:8789/play/live.php?mac=00:1A:79:5D:78:C6&stream=253405&extension=ts
+#EXTINF:-1 tvg-chno="56" group-title="[Wonypium] VIP 1B - Series & Movies" tvg-logo="https://i.imgur.com/pa2SF5Z.png",[VIP] HBO
+http://125.227.210.55:8153/VideoInput/play.ts
+#EXTINF:-1 tvg-chno="57" group-title="[Wonypium] VIP 1B - Series & Movies" tvg-logo="https://i.imgur.com/pZn9JHj.png",[VIP] HBO HITS
+http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/hbohits/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+#EXTINF:-1 tvg-chno="58" group-title="[Wonypium] VIP 1B - Series & Movies" tvg-logo="https://i.imgur.com/3BOoqQn.png",[VIP] HBO SIGNATURE
+http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/hbosignature/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+#EXTINF:-1 tvg-chno="59" group-title="[Wonypium] VIP 1B - Series & Movies" tvg-logo="https://i.imgur.com/Zy3pvJV.png",[VIP] HBO FAMILY
+http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/hbofamily/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+#EXTINF:-1 tvg-chno="60" group-title="[Wonypium] VIP 1B - Series & Movies" tvg-logo="https://i.imgur.com/FPQpnLt.png",[VIP] CINEMAX
+http://125.227.210.55:8151/VideoInput/play.ts
+#EXTINF:-1 tvg-chno="61" group-title="[Wonypium] VIP 1B - Series & Movies" tvg-logo="https://i.imgur.com/zBW9SK5.png",[VIP] STAR MOVIES
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:F2:D0:BB&stream=1356722&extension=ts
+#EXTINF:-1 tvg-chno="62" group-title="[Wonypium] VIP 1B - Series & Movies" tvg-logo="https://i.imgur.com/ZzLza9k.png",[VIP] STAR ACTION
+http://d4k4u.com:2082/play/live.php?mac=00:1A:79:A1:9D:CF&stream=31713&extension=ts
+#EXTINF:-1 tvg-chno="63" group-title="[Wonypium] VIP 1B - Series & Movies" tvg-logo="https://i.imgur.com/Qx7X56p.png",[VIP] STUDIO UNIVERSAL
+http://168.181.122.234:8000/play/a03b
+#EXTINF:-1 tvg-chno="64" group-title="[Wonypium] VIP 1B - Series & Movies" tvg-logo="https://i.imgur.com/3RVA5mV.png",[VIP] TAP MOVIES
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:F2:D0:BB&stream=926152&extension=ts
+#EXTINF:-1 tvg-chno="65" group-title="[Wonypium] VIP 1B - Series & Movies" tvg-logo="https://i.imgur.com/2kwXRSR.png",[VIP] TAP ACTION FLIX
+http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/50117.ts
+#EXTINF:-1 tvg-chno="66" group-title="[Wonypium] VIP 1B - Series & Movies" tvg-logo="https://i.imgur.com/Sum9qPu.png",[VIP] ROCK ACTION
+https://zhangqun66.serv00.net/Smartv.php?id=Rockaction
+#EXTINF:-1 tvg-chno="67" group-title="[Wonypium] VIP 1B - Series & Movies" tvg-logo="https://i.imgur.com/SNc90AX.png",[VIP] LOTUS MACAU
+https://cdn1.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+#EXTINF:-1 tvg-chno="68" group-title="[Wonypium] VIP 1B - Series & Movies"  tvg-logo="https://i.imgur.com/1rG3el2.png",[VIP] HITS MOVIES
+http://ktpremium.xyz:2095/live/mmeettaaysys2367/898923yytrr1/26102.ts
+#EXTINF:-1 tvg-chno="69" group-title="[Wonypium] VIP 1B - Series & Movies" tvg-logo="https://i.imgur.com/8osIZLM.png",[VIP] HBO +
+http://168.181.122.234:8000/play/a02x
+#EXTINF:-1 tvg-chno="70" group-title="[Wonypium] VIP 1B - Series & Movies" tvg-logo="https://i.imgur.com/5cyxZeb.png",[VIP] HBO POP
+http://38.41.8.1:8000/play/a00d
+#EXTINF:-1 tvg-chno="71" group-title="[Wonypium] VIP 2 - Animation & Kids" tvg-logo="https://i.imgur.com/XhZWP6u.png",[VIP] DISNEY CHANNEL
+http://168.181.122.234:8000/play/a038
+#EXTINF:-1 tvg-chno="72" group-title="[Wonypium] VIP 2 - Animation & Kids" tvg-logo="https://i.imgur.com/rLROXxu.png",[VIP] DISNEY JR.
+http://185.236.229.62:9981/play/a06n
+#EXTINF:-1 tvg-chno="73" group-title="[Wonypium] VIP 2 - Animation & Kids" tvg-logo="https://i.imgur.com/Bccu95o.png",[VIP] DISNEY XD
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:F2:D0:BB&stream=177333&extension=ts
+#EXTINF:-1 tvg-chno="74" group-title="[Wonypium] VIP 2 - Animation & Kids" tvg-logo="https://i.imgur.com/Offhcm1.png",[VIP] CARTOON NETWORK
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-chno="75" group-title="[Wonypium] VIP 2 - Animation & Kids" tvg-logo="https://i.imgur.com/kHhmOMp.png",[VIP] CARTOONITO
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+#EXTINF:-1 tvg-chno="76" group-title="[Wonypium] VIP 2 - Animation & Kids" tvg-logo="https://i.imgur.com/5Nsw6N3.png",[VIP] NICKELODEON 
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:F2:D0:BB&stream=731817&extension=ts
+#EXTINF:-1 tvg-chno="77" group-title="[Wonypium] VIP 2 - Animation & Kids" tvg-logo="https://i.imgur.com/dgaQ1xt.png",[VIP] NICK JR.
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:F2:D0:BB&stream=926163&extension=ts
+#EXTINF:-1 tvg-chno="78" group-title="[Wonypium] VIP 2 - Animation & Kids" tvg-logo="https://i.imgur.com/3LT5ThH.png",[VIP] NICK TOONS
+http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/60754.ts
+#EXTINF:-1 tvg-chno="79" group-title="[Wonypium] VIP 2 - Animation & Kids" tvg-logo="https://i.imgur.com/Iy35n22.png",[VIP] DREAMWORKS 
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:F2:D0:BB&stream=926185&extension=ts
+#EXTINF:-1 tvg-chno="80" group-title="[Wonypium] VIP 2 - Animation & Kids" tvg-logo="https://i.imgur.com/QxTehhs.png",[VIP] ANIMAX
+http://ktpremium.xyz:2095/live/mmeettaaysys2367/898923yytrr1/933048.ts
+#EXTINF:-1 tvg-chno="81" group-title="[Wonypium] VIP 2 - Animation & Kids" tvg-logo="https://i.imgur.com/oji4C2n.png",[VIP] DA VINCI
+http://103.152.216.26:8443/live/live/8CyKOe1HaSB6WuRsqAaxxA/1720006741/155.m3u8
+#EXTINF:-1 tvg-chno="82" group-title="[Wonypium] VIP 2 - Animation & Kids" tvg-logo="https://i.imgur.com/v4ZYiUL.png",[VIP] MOONBUG
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:F2:D0:BB&stream=926168&extension=ts
+#EXTINF:-1 tvg-chno="83" group-title="[Wonypium] VIP 2 - Animation & Kids" tvg-logo="https://i.imgur.com/EJGFUlc.png",[VIP] CBEEBIES
+http://185.236.229.62:9981/play/a06s
+#EXTINF:-1 tvg-chno="84" group-title="[Wonypium] VIP 2 - Animation & Kids" tvg-logo="https://i.imgur.com/mAA13pC.png",[VIP] DISCOVERY KIDS
+http://168.181.122.234:8000/play/a012
+#EXTINF:-1 tvg-chno="85" group-title="[Wonypium] VIP 2 - Animation & Kids" tvg-logo="https://i.imgur.com/daHHNzj.png",[VIP] ZOOMOO
+https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-chno="86" group-title="[Wonypium] VIP 3 - Foreign" tvg-logo="https://i.imgur.com/lY1BAUH.png",[VIP] TVN PREMIUM
+http://21tv.net:8789/play/live.php?mac=00:1A:79:5D:78:C6&stream=253456&extension=ts
+#EXTINF:-1 tvg-chno="87" group-title="[Wonypium] VIP 3 - Foreign" tvg-logo="https://i.imgur.com/m5ABJbq.png",[VIP] KBS WORLD
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-chno="88" group-title="[Wonypium] VIP 3 - Foreign" tvg-logo="https://i.imgur.com/DjI6SS1.png",[VIP] GEM
+http://ktpremium.xyz:2095/live/mmeettaaysys2367/898923yytrr1/933049.ts
+#EXTINF:-1 tvg-chno="89" group-title="[Wonypium] VIP 3 - Foreign" tvg-logo="https://i.imgur.com/XDQMCio.png",[VIP] KIX
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:F2:D0:BB&stream=926171&extension=ts
+#EXTINF:-1 tvg-chno="90" group-title="[Wonypium] VIP 3 - Foreign" tvg-logo="https://i.imgur.com/mNmRiMA.png",[VIP] THRILL
+http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567745.ts
+#EXTINF:-1 tvg-chno="91" group-title="[Wonypium] VIP 3 - Foreign" tvg-logo="https://i.imgur.com/lZkJlJi.png",[VIP] CCM
+http://ktpremium.xyz:2095/live/mmeettaaysys2367/898923yytrr1/945567.ts
+#EXTINF:-1 tvg-chno="92" group-title="[Wonypium] VIP 3 - Foreign" tvg-logo="https://i.imgur.com/spsqFNP.png",[VIP] ARIRANG
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="93" group-title="[Wonypium] VIP 3 - Foreign" tvg-logo="https://i.imgur.com/1WZ5KUI.png",[VIP] TV5MONDE ASIE
+http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/tv5monde/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+#EXTINF:-1 tvg-chno="94" group-title="[Wonypium] VIP 3 - Foreign" tvg-logo="https://i.imgur.com/wlXSGtI.png",[VIP] ABC AUSTRALIA
+http://103.152.216.26:8443/live/live/8CyKOe1HaSB6WuRsqAaxxA/1720006741/161.m3u8
+#EXTINF:-1 tvg-chno="95" group-title="[Wonypium] VIP 3 - Foreign" tvg-logo="https://i.imgur.com/WX0fL1C.png",[VIP] NHK WORLD
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-chno="96" group-title="[Wonypium] VIP 3 - Foreign" tvg-logo="https://i.imgur.com/GmU9f4I.png",[VIP] CCTV-4
+http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/cctv4/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+#EXTINF:-1 tvg-chno="97" group-title="[Wonypium] VIP 3 - Foreign" tvg-logo="https://i.imgur.com/m20XaAQ.png",[VIP] CGTN DOCUMENTARY
+http://ktpremium.xyz:2095/live/mmeettaaysys2367/898923yytrr1/694497.ts
+#EXTINF:-1 tvg-chno="98" group-title="[Wonypium] VIP 3 - Foreign" tvg-logo="https://i.imgur.com/kftMPcc.png",[VIP] DISCOVERY ASIA
+https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 tvg-chno="99" group-title="[Wonypium] VIP 3 - Foreign" tvg-logo="https://i.imgur.com/3Bj67gu.png",[VIP] PHOENIX CHINESE
+http://ktpremium.xyz:2095/live/mmeettaaysys2367/898923yytrr1/25984.ts
+#EXTINF:-1 tvg-chno="100" group-title="[Wonypium] VIP 3 - Foreign" tvg-logo="https://i.imgur.com/LhzFyq9.png",[VIP] TVBS ASIA
+http://ktpremium.xyz:2095/live/mmeettaaysys2367/898923yytrr1/25986.ts
+#EXTINF:-1 tvg-chno="101" group-title="[Wonypium] VIP 4 - Music" tvg-logo="https://i.imgur.com/tb65CMh.png",[VIP] MTV
+https://zhangqun66.serv00.net/Smartv.php?id=mtvhd_twn
+#EXTINF:-1 tvg-chno="102" group-title="[Wonypium] VIP 4 - Music" tvg-logo="https://i.imgur.com/j8x0nhs.png",[VIP] MTV LIVE
+http://103.152.216.26:8443/live/live/8CyKOe1HaSB6WuRsqAaxxA/1720006741/131.m3u8
+#EXTINF:-1 tvg-chno="103" group-title="[Wonypium] VIP 4 - Music" tvg-logo="https://i.imgur.com/VRazo4V.png",[VIP] TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="104" group-title="[Wonypium] VIP 4 - Music" tvg-logo="https://i.imgur.com/0BoLKj2.png",[VIP] VH1
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:F2:D0:BB&stream=155739&extension=ts
+#EXTINF:-1 tvg-chno="105" group-title="[Wonypium] VIP 4 - Music" tvg-logo="https://i.imgur.com/XcBH2Bh.png",[VIP] MYX
+http://103.152.216.26:8443/live/live/8CyKOe1HaSB6WuRsqAaxxA/1720006741/177.m3u8
+#EXTINF:-1 tvg-chno="106" group-title="[Wonypium] VIP 4 - Music" tvg-logo="https://i.imgur.com/z0uTcNt.png",[VIP] MTV HITS
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:F2:D0:BB&stream=1067475&extension=ts
+#EXTINF:-1 tvg-chno="107" group-title="[Wonypium] VIP 4 - Music" tvg-logo="https://i.imgur.com/dufgLpD.png",[VIP] XITE
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="108" group-title="[Wonypium] VIP 4 - Music" tvg-logo="https://i.imgur.com/AOaZmlS.png",[VIP] MTV BIGGEST POP
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c&serverSideAds=false
+#EXTINF:-1 tvg-chno="109" group-title="[Wonypium] VIP 4 - Music" tvg-logo="https://i.imgur.com/thbvJd1.png",[VIP] MTV SPANKIN' NEW
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1066e5a-9a82-4a1b-a025-868c083394e4&serverSideAds=false
+#EXTINF:-1 tvg-chno="110" group-title="[Wonypium] VIP 4 - Music" tvg-logo="https://i.imgur.com/hzNXDdY.png",[VIP] YO! MTV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3737-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=32448355-0e6b-41d6-91ca-4bad8ef8310d&serverSideAds=false
+#EXTINF:-1 tvg-chno="111" group-title="[Wonypium] VIP 5A - Factual & Lifestyle" tvg-logo="https://i.imgur.com/axS65wv.png",[VIP] DISCOVERY CHANNEL
+http://user.scalecdn.co:8080/live/51206997/60571600/567707.ts
+#EXTINF:-1 tvg-chno="112" group-title="[Wonypium] VIP 5A - Factual & Lifestyle" tvg-logo="https://i.imgur.com/0Ct5ZlG.png",[VIP] DISCOVERY SCIENCE
+http://ktpremium.xyz:2095/live/mmeettaaysys2367/898923yytrr1/698400.ts
+#EXTINF:-1 tvg-chno="113" group-title="[Wonypium] VIP 5A - Factual & Lifestyle" tvg-logo="https://i.imgur.com/zN1lnxC.png",[VIP] ANIMAL PLANET 
+http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/66820.ts
+#EXTINF:-1 tvg-chno="114" group-title="[Wonypium] VIP 5A - Factual & Lifestyle" tvg-logo="https://i.imgur.com/2TeKCBK.png",[VIP] NATIONAL GEOGRAPHIC
+http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/55352.ts
+#EXTINF:-1 tvg-chno="115" group-title="[Wonypium] VIP 5A - Factual & Lifestyle" tvg-logo="https://i.imgur.com/fXdtt0t.png",[VIP] NATIONAL GEOGRAPHIC WILD
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:F2:D0:BB&stream=155741&extension=ts&play_token=fB4BUOwqNB
+#EXTINF:-1 tvg-chno="116" group-title="[Wonypium] VIP 5A - Factual & Lifestyle" tvg-logo="https://i.imgur.com/z9fsJ2L.png",[VIP] HISTORY
+http://21tv.net:8789/play/live.php?mac=00:1A:79:5D:78:C6&stream=253433&extension=ts
+#EXTINF:-1 tvg-chno="117" group-title="[Wonypium] VIP 5A - Factual & Lifestyle" tvg-logo="https://i.imgur.com/bNeT9eV.png",[VIP] H2
+http://168.181.122.234:8000/play/a01e
+#EXTINF:-1 tvg-chno="118" group-title="[Wonypium] VIP 5A - Factual & Lifestyle" tvg-logo="https://i.imgur.com/ShaJIDw.png",[VIP] BBC EARTH
+http://103.152.216.26:8443/live/live/8CyKOe1HaSB6WuRsqAaxxA/1720006741/158.m3u8
+#EXTINF:-1 tvg-chno="119" group-title="[Wonypium] VIP 5A - Factual & Lifestyle" tvg-logo="https://i.imgur.com/8VsCN1h.png",[VIP] GLOBAL TREKKER
+http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/71137.ts
+#EXTINF:-1 tvg-chno="120" group-title="[Wonypium] VIP 5A - Factual & Lifestyle" tvg-logo="https://i.imgur.com/YZzpZx1.png",[VIP] LOVE NATURE
+http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/71141.ts
+#EXTINF:-1 tvg-chno="121" group-title="[Wonypium] VIP 5B - Factual & Lifestyle" tvg-logo="https://i.imgur.com/E4a2NTW.png",[VIP] METRO CHANNEL
+http://103.152.216.26:8443/live/live/8CyKOe1HaSB6WuRsqAaxxA/1720006741/130.m3u8
+#EXTINF:-1 tvg-chno="122" group-title="[Wonypium] VIP 5B - Factual & Lifestyle" tvg-logo="https://i.imgur.com/KON8EBL.png",[VIP] FASHION TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_hd_gmt__vm6_43433_default_1597_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="123" group-title="[Wonypium] VIP 5B - Factual & Lifestyle" tvg-logo="https://i.imgur.com/yACFJ8Q.png",[VIP] ASIAN FOOD NETWORK
+http://hoatv001.ddns.net:9981/stream/mux/bf093defc95894cb4e7dd05c76e03f4e
+#EXTINF:-1 tvg-chno="124" group-title="[Wonypium] VIP 5B - Factual & Lifestyle" tvg-logo="https://i.imgur.com/KeM5KlR.png",[VIP] CRIME+INVESTIGATION
+http://ktpremium.xyz:2095/live/mmeettaaysys2367/898923yytrr1/26288.ts
+#EXTINF:-1 tvg-chno="125" group-title="[Wonypium] VIP 5B - Factual & Lifestyle" tvg-logo="https://i.imgur.com/Wv5i7ZH.png",[VIP] LIFETIME
+http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/lifetimesd/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+#EXTINF:-1 tvg-chno="126" group-title="[Wonypium] VIP 5B - Factual & Lifestyle" tvg-logo="https://i.imgur.com/ipKlaA4.png",[VIP] BBC LIFESTYLE
+http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/71120.ts
+#EXTINF:-1 tvg-chno="127" group-title="[Wonypium] VIP 5B - Factual & Lifestyle" tvg-logo="https://i.imgur.com/7KRgWo5.png",[VIP] FOOD NETWORK
+https://dplus.gammacdn.workers.dev/videos/112.m3u8
+#EXTINF:-1 tvg-chno="128" group-title="[Wonypium] VIP 5B - Factual & Lifestyle" tvg-logo="https://i.imgur.com/LOoJAvM.png",[VIP] HGTV
+https://dplus.gammacdn.workers.dev/videos/111.m3u8
+#EXTINF:-1 tvg-chno="129" group-title="[Wonypium] VIP 5B - Factual & Lifestyle" tvg-logo="https://i.imgur.com/r4NrQ84.png",[VIP] TLC
+https://zhangqun66.serv00.net/Smartv.php?id=tlc_twn
+#EXTINF:-1 tvg-chno="131" group-title="[Wonypium] VIP 5B - Factual & Lifestyle" tvg-logo="https://i.imgur.com/hnAhfYs.png",[VIP] DMAX
+https://dplus.gammacdn.workers.dev/videos/109.m3u8
+#EXTINF:-1 tvg-chno="130" group-title="[Wonypium] VIP 5B - Factual & Lifestyle" tvg-logo="https://i.imgur.com/LplHeem.png",[VIP] TRAVEL CHANNEL
+https://dplus.gammacdn.workers.dev/videos/110.m3u8
+#EXTINF:-1 tvg-chno="132" group-title="[Wonypium] VIP 5B - Factual & Lifestyle" tvg-logo="https://i.imgur.com/TMoQyh2.png",[VIP] INVESTIGATION DISCOVERY
+https://dplus.gammacdn.workers.dev/videos/101.m3u8
+#EXTINF:-1 tvg-chno="133" group-title="[Wonypium] VIP 5B - Factual & Lifestyle" tvg-logo="https://i.imgur.com/aFYv5DG.png",[VIP] OUTDOOR CHANNEL
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-chno="134" group-title="[Wonypium] VIP 5B - Factual & Lifestyle" tvg-logo="https://i.imgur.com/WjYEth6.png",[VIP] TECHSTORM
+http://103.152.216.26:8443/live/live/8CyKOe1HaSB6WuRsqAaxxA/1720006741/164.m3u8
+#EXTINF:-1 tvg-chno="135" group-title="[Wonypium] VIP 5B - Factual & Lifestyle" tvg-logo="https://i.imgur.com/En7uedb.png",[VIP] E! ENTERTAINMENT
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:F2:D0:BB&stream=107496&extension=ts
+#EXTINF:-1 tvg-chno="136" group-title="[Wonypium] VIP 6 - Sports" tvg-logo="https://i.imgur.com/ZoBDuxO.png",[VIP] ONE SPORTS +
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp.m3u8
+#EXTINF:-1 tvg-chno="137" group-title="[Wonypium] VIP 6 - Sports" tvg-logo="https://i.imgur.com/Hk4XhHR.png",[VIP] NBA TV PHILIPPINES
+http://103.152.216.26:8443/live/live/8CyKOe1HaSB6WuRsqAaxxA/1720006741/136.m3u8
+#EXTINF:-1 tvg-chno="138" group-title="[Wonypium] VIP 6 - Sports" tvg-logo="https://i.imgur.com/aeRpXyj.png",[VIP] TAP SPORTS
+http://103.152.216.26:8443/live/live/8CyKOe1HaSB6WuRsqAaxxA/1720006741/139.m3u8
+#EXTINF:-1 tvg-chno="139" group-title="[Wonypium] VIP 6 - Sports" tvg-logo="https://i.imgur.com/QWunFo1.png",[VIP] PREMIER SPORTS
+http://103.152.216.26:8443/live/live/8CyKOe1HaSB6WuRsqAaxxA/1720006741/206.m3u8
+#EXTINF:-1 tvg-chno="140" group-title="[Wonypium] VIP 6 - Sports" tvg-logo="https://i.imgur.com/CGEYT3y.png",[VIP] PREMIER SPORTS 2
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16772
+#EXTINF:-1 tvg-chno="141" group-title="[Wonypium] VIP 6 - Sports" tvg-logo="https://i.imgur.com/xqYABDy.png",[VIP] BEIN SPORTS 1
+http://extraott.com/live/9021736130/8202802266/194620.ts
+#EXTINF:-1 tvg-chno="142" group-title="[Wonypium] VIP 6 - Sports" tvg-logo="https://i.imgur.com/o2ZMjg3.png",[VIP] BEIN SPORTS 2
+http://ktpremium.xyz:2095/live/mmeettaaysys2367/898923yytrr1/912557.ts
+#EXTINF:-1 tvg-chno="143" group-title="[Wonypium] VIP 6 - Sports" tvg-logo="https://i.imgur.com/wl9GulD.png",[VIP] BEIN SPORTS 3
+http://extraott.com/live/9021736130/8202802266/355737.ts
+#EXTINF:-1 tvg-chno="144" group-title="[Wonypium] VIP 6 - Sports" tvg-logo="https://i.imgur.com/Z7yDSY4.png",[VIP] FIGHT SPORTS
+http://ktpremium.xyz:2095/live/mmeettaaysys2367/898923yytrr1/73960.ts
+#EXTINF:-1 tvg-chno="145" group-title="[Wonypium] VIP 6 - Sports" tvg-logo="https://i.imgur.com/E9WTTwg.png",[VIP] SPOTV
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:18:17:0A&stream=300202&extension=ts
+#EXTINF:-1 tvg-chno="146" group-title="[Wonypium] VIP 6 - Sports" tvg-logo="https://i.imgur.com/ymGJTxi.png",[VIP] SPOTV2
+http://ktpremium.xyz:2095/live/mmeettaaysys2367/898923yytrr1/73957.ts
+#EXTINF:-1 tvg-chno="147" group-title="[Wonypium] VIP 6 - Sports" tvg-logo="https://i.imgur.com/oYg5iPW.png",[VIP] EUROSPORT
+http://ktpremium.xyz:2095/live/mmeettaaysys2367/898923yytrr1/26324.ts
+#EXTINF:-1 tvg-chno="148" group-title="[Wonypium] VIP 6 - Sports" tvg-logo="https://i.imgur.com/w8PMJq3.png",[VIP] SONY SPORTS 1
+http://103.86.134.34:9960/stream/channelid/1910743307?ticket=388166346CA51921B57F61413001D51801EDF6A8&profile=pass
+#EXTINF:-1 tvg-chno="149" group-title="[Wonypium] VIP 6 - Sports" tvg-logo="https://i.imgur.com/VFYBjqV.png",[VIP] SONY SPORTS 2
+http://103.86.134.34:9960/stream/channelid/278024710?ticket=6B37F1D05C46B30A6F8D78399FF44518A22D54DF&profile=pass
+#EXTINF:-1 tvg-chno="150" group-title="[Wonypium] VIP 6 - Sports" tvg-logo="https://i.imgur.com/BMD19M7.png",[VIP] W-SPORT
+http://ktpremium.xyz:2095/live/mmeettaaysys2367/898923yytrr1/26317.ts
