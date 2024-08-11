@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-chno="1" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/jgy9LTs.png",[PH] KAPAMILYA CHANNEL
 http://103.152.216.26:8443/live/live/8CyKOe1HaSB6WuRsqAaxxA/1720006741/101.m3u8
 #EXTINF:-1 tvg-chno="2" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/qgy7oAa.png",[PH] GMA
-http://103.152.216.26:8443/live/live/8CyKOe1HaSB6WuRsqAaxxA/1720006741/98.m3u8
+https://xigncode.notflix.in/hls/gmanixigncode/index.m3u8
 #EXTINF:-1 tvg-chno="3" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/yMK7Fd5.png",[PH] GTV
 http://103.152.216.26:8443/live/live/8CyKOe1HaSB6WuRsqAaxxA/1720006741/103.m3u8
 #EXTINF:-1 tvg-chno="4" group-title="[Wonypium] Philippines" tvg-logo="https://i.imgur.com/pKVWlvx.png",[PH] TV5
