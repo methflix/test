@@ -278,6 +278,16 @@ def main():
                                 for line in process.stderr:
                                     print(line.decode().strip())
 
+                                # Move the downloaded video using rclone
+                                rclone_command = f"rclone move {downloads_folder}/{title}.mkv personal1:jav"
+                                rclone_process = subprocess.run(rclone_command, shell=True)
+
+                                # Check if rclone move was successful
+                                if rclone_process.returncode == 0:
+                                    print(f"+INFO: Successfully moved {title} to remote.")
+                                else:
+                                    print(f"Error occurred while moving {title} to remote.")
+
                             except Exception as e:
                                 print(f"Error occurred while downloading {title}: {e}")
                     pbar.update(1)
