@@ -1,286 +1,286 @@
 #EXTM3U x-tvg-url=""
 
-#EXTINF:1 group-title="TRICKFLIX" tvg-id="TRICKFLIX/buko" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX]  BUKO
+#EXTINF:1 group-title="TRICKFLIX" tvg-id="TRICKFLIX/buko" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix]  BUKO
 http://79.127.235.177:1234/stream/TRICKFLIX/buko/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:2 group-title="TRICKFLIX" tvg-id="TRICKFLIX/nbaph" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX]  NBA_PH
+#EXTINF:2 group-title="TRICKFLIX" tvg-id="TRICKFLIX/nbaph" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix]  NBA_PH
 http://79.127.235.177:1234/stream/TRICKFLIX/nbaph/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:3 group-title="TRICKFLIX" tvg-id="TRICKFLIX/a2z" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] A2Z
+#EXTINF:3 group-title="TRICKFLIX" tvg-id="TRICKFLIX/a2z" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] A2Z
 http://79.127.235.177:1234/stream/TRICKFLIX/a2z/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:4 group-title="TRICKFLIX" tvg-id="TRICKFLIX/abc" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] ABC
+#EXTINF:4 group-title="TRICKFLIX" tvg-id="TRICKFLIX/abc" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] ABC
 http://79.127.235.177:1234/stream/TRICKFLIX/abc/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:5 group-title="TRICKFLIX" tvg-id="TRICKFLIX/alltv" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] ALL_TV
+#EXTINF:5 group-title="TRICKFLIX" tvg-id="TRICKFLIX/alltv" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] ALL_TV
 http://79.127.235.177:1234/stream/TRICKFLIX/alltv/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:6 group-title="TRICKFLIX" tvg-id="TRICKFLIX/ancglobal" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] ANC_GLOBAL
+#EXTINF:6 group-title="TRICKFLIX" tvg-id="TRICKFLIX/ancglobal" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] ANC_GLOBAL
 http://79.127.235.177:1234/stream/TRICKFLIX/ancglobal/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:7 group-title="TRICKFLIX" tvg-id="TRICKFLIX/animalplanet" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] ANIMAL_PLANET
+#EXTINF:7 group-title="TRICKFLIX" tvg-id="TRICKFLIX/animalplanet" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] ANIMAL_PLANET
 http://79.127.235.177:1234/stream/TRICKFLIX/animalplanet/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:8 group-title="TRICKFLIX" tvg-id="TRICKFLIX/animax" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] ANIMAX
+#EXTINF:8 group-title="TRICKFLIX" tvg-id="TRICKFLIX/animax" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] ANIMAX
 http://79.127.235.177:1234/stream/TRICKFLIX/animax/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:9 group-title="TRICKFLIX" tvg-id="TRICKFLIX/animaxhd" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] ANIMAX_HD
+#EXTINF:9 group-title="TRICKFLIX" tvg-id="TRICKFLIX/animaxhd" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] ANIMAX_HD
 http://79.127.235.177:1234/stream/TRICKFLIX/animaxhd/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:10 group-title="TRICKFLIX" tvg-id="TRICKFLIX/asianfoodchannel" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] ASIAN_FOOD_CHANNEL
+#EXTINF:10 group-title="TRICKFLIX" tvg-id="TRICKFLIX/asianfoodchannel" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] ASIAN_FOOD_CHANNEL
 http://79.127.235.177:1234/stream/TRICKFLIX/asianfoodchannel/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:11 group-title="TRICKFLIX" tvg-id="TRICKFLIX/axn" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] AXN
+#EXTINF:11 group-title="TRICKFLIX" tvg-id="TRICKFLIX/axn" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] AXN
 http://79.127.235.177:1234/stream/TRICKFLIX/axn/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:12 group-title="TRICKFLIX" tvg-id="TRICKFLIX/bbcearth" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] BBC_EARTH
+#EXTINF:12 group-title="TRICKFLIX" tvg-id="TRICKFLIX/bbcearth" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] BBC_EARTH
 http://79.127.235.177:1234/stream/TRICKFLIX/bbcearth/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:13 group-title="TRICKFLIX" tvg-id="TRICKFLIX/bbcworldnews" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] BBC_WORLD_NEWS
+#EXTINF:13 group-title="TRICKFLIX" tvg-id="TRICKFLIX/bbcworldnews" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] BBC_WORLD_NEWS
 http://79.127.235.177:1234/stream/TRICKFLIX/bbcworldnews/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:14 group-title="TRICKFLIX" tvg-id="TRICKFLIX/bilyonaryochannel" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] BILYONARYO_CHANNEL
+#EXTINF:14 group-title="TRICKFLIX" tvg-id="TRICKFLIX/bilyonaryochannel" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] BILYONARYO_CHANNEL
 http://79.127.235.177:1234/stream/TRICKFLIX/bilyonaryochannel/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:15 group-title="TRICKFLIX" tvg-id="TRICKFLIX/boomberg" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] BOOMBERG
+#EXTINF:15 group-title="TRICKFLIX" tvg-id="TRICKFLIX/boomberg" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] BOOMBERG
 http://79.127.235.177:1234/stream/TRICKFLIX/boomberg/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:16 group-title="TRICKFLIX" tvg-id="TRICKFLIX/cartoonnetwork" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] CARTOON_NETWORK
+#EXTINF:16 group-title="TRICKFLIX" tvg-id="TRICKFLIX/cartoonnetwork" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] CARTOON_NETWORK
 http://79.127.235.177:1234/stream/TRICKFLIX/cartoonnetwork/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:17 group-title="TRICKFLIX" tvg-id="TRICKFLIX/cctv4" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] CCTV_4
+#EXTINF:17 group-title="TRICKFLIX" tvg-id="TRICKFLIX/cctv4" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] CCTV_4
 http://79.127.235.177:1234/stream/TRICKFLIX/cctv4/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:18 group-title="TRICKFLIX" tvg-id="TRICKFLIX/celestialmoviespinoy" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] CELESTIAL_MOVIES_PINOY
+#EXTINF:18 group-title="TRICKFLIX" tvg-id="TRICKFLIX/celestialmoviespinoy" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] CELESTIAL_MOVIES_PINOY
 http://79.127.235.177:1234/stream/TRICKFLIX/celestialmoviespinoy/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:19 group-title="TRICKFLIX" tvg-id="TRICKFLIX/cgtn" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] CGTN
+#EXTINF:19 group-title="TRICKFLIX" tvg-id="TRICKFLIX/cgtn" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] CGTN
 http://79.127.235.177:1234/stream/TRICKFLIX/cgtn/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:20 group-title="TRICKFLIX" tvg-id="TRICKFLIX/cinemaone" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] CINEMA_ONE
+#EXTINF:20 group-title="TRICKFLIX" tvg-id="TRICKFLIX/cinemaone" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] CINEMA_ONE
 http://79.127.235.177:1234/stream/TRICKFLIX/cinemaone/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:21 group-title="TRICKFLIX" tvg-id="TRICKFLIX/cinemax" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] CINEMAX
+#EXTINF:21 group-title="TRICKFLIX" tvg-id="TRICKFLIX/cinemax" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] CINEMAX
 http://79.127.235.177:1234/stream/TRICKFLIX/cinemax/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:22 group-title="TRICKFLIX" tvg-id="TRICKFLIX/cinemo" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] CINEMO
+#EXTINF:22 group-title="TRICKFLIX" tvg-id="TRICKFLIX/cinemo" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] CINEMO
 http://79.127.235.177:1234/stream/TRICKFLIX/cinemo/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:23 group-title="TRICKFLIX" tvg-id="TRICKFLIX/cna" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] CNA
+#EXTINF:23 group-title="TRICKFLIX" tvg-id="TRICKFLIX/cna" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] CNA
 http://79.127.235.177:1234/stream/TRICKFLIX/cna/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:24 group-title="TRICKFLIX" tvg-id="TRICKFLIX/cnn" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] CNN
+#EXTINF:24 group-title="TRICKFLIX" tvg-id="TRICKFLIX/cnn" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] CNN
 http://79.127.235.177:1234/stream/TRICKFLIX/cnn/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:25 group-title="TRICKFLIX" tvg-id="TRICKFLIX/crimeinvestigation" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] CRIME & INVESTIGATION
+#EXTINF:25 group-title="TRICKFLIX" tvg-id="TRICKFLIX/crimeinvestigation" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] CRIME & INVESTIGATION
 http://79.127.235.177:1234/stream/TRICKFLIX/crimeinvestigation/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:26 group-title="TRICKFLIX" tvg-id="TRICKFLIX/depedtv" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] DEPED_TV
+#EXTINF:26 group-title="TRICKFLIX" tvg-id="TRICKFLIX/depedtv" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] DEPED_TV
 http://79.127.235.177:1234/stream/TRICKFLIX/depedtv/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:27 group-title="TRICKFLIX" tvg-id="TRICKFLIX/test" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] DISCOVERY_CHANNEL
+#EXTINF:27 group-title="TRICKFLIX" tvg-id="TRICKFLIX/test" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] DISCOVERY_CHANNEL
 http://79.127.235.177:1234/stream/TRICKFLIX/test/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:28 group-title="TRICKFLIX" tvg-id="TRICKFLIX/dreamworkshd" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] DREAMWORKS_HD
+#EXTINF:28 group-title="TRICKFLIX" tvg-id="TRICKFLIX/dreamworkshd" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] DREAMWORKS_HD
 http://79.127.235.177:1234/stream/TRICKFLIX/dreamworkshd/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:29 group-title="TRICKFLIX" tvg-id="TRICKFLIX/dreamworkstagalized" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] DREAMWORKS_TAGALIZED
+#EXTINF:29 group-title="TRICKFLIX" tvg-id="TRICKFLIX/dreamworkstagalized" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] DREAMWORKS_TAGALIZED
 http://79.127.235.177:1234/stream/TRICKFLIX/dreamworkstagalized/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:30 group-title="TRICKFLIX" tvg-id="TRICKFLIX/fashiontv" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] FASHION_TV
+#EXTINF:30 group-title="TRICKFLIX" tvg-id="TRICKFLIX/fashiontv" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] FASHION_TV
 http://79.127.235.177:1234/stream/TRICKFLIX/fashiontv/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:31 group-title="TRICKFLIX" tvg-id="TRICKFLIX/fightsports" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] FIGHT_SPORTS
+#EXTINF:31 group-title="TRICKFLIX" tvg-id="TRICKFLIX/fightsports" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] FIGHT_SPORTS
 http://79.127.235.177:1234/stream/TRICKFLIX/fightsports/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:32 group-title="TRICKFLIX" tvg-id="TRICKFLIX/gmanews" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] GMA
+#EXTINF:32 group-title="TRICKFLIX" tvg-id="TRICKFLIX/gmanews" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] GMA
 http://79.127.235.177:1234/stream/TRICKFLIX/gmanews/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:33 group-title="TRICKFLIX" tvg-id="TRICKFLIX/gmalife" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] GMA_Life
+#EXTINF:33 group-title="TRICKFLIX" tvg-id="TRICKFLIX/gmalife" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] GMA_Life
 http://79.127.235.177:1234/stream/TRICKFLIX/gmalife/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:34 group-title="TRICKFLIX" tvg-id="TRICKFLIX/gmanews-1" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] GMA_NEWS
+#EXTINF:34 group-title="TRICKFLIX" tvg-id="TRICKFLIX/gmanews-1" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] GMA_NEWS
 http://79.127.235.177:1234/stream/TRICKFLIX/gmanews-1/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:35 group-title="TRICKFLIX" tvg-id="TRICKFLIX/gmapinoy" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] GMA_PINOY
+#EXTINF:35 group-title="TRICKFLIX" tvg-id="TRICKFLIX/gmapinoy" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] GMA_PINOY
 http://79.127.235.177:1234/stream/TRICKFLIX/gmapinoy/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:36 group-title="TRICKFLIX" tvg-id="TRICKFLIX/gtv" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] GTV
+#EXTINF:36 group-title="TRICKFLIX" tvg-id="TRICKFLIX/gtv" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] GTV
 http://79.127.235.177:1234/stream/TRICKFLIX/gtv/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:37 group-title="TRICKFLIX" tvg-id="TRICKFLIX/hbofamily" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] HBO_FAMILY
+#EXTINF:37 group-title="TRICKFLIX" tvg-id="TRICKFLIX/hbofamily" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] HBO_FAMILY
 http://79.127.235.177:1234/stream/TRICKFLIX/hbofamily/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:38 group-title="TRICKFLIX" tvg-id="TRICKFLIX/hbohd" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] HBO_HD
+#EXTINF:38 group-title="TRICKFLIX" tvg-id="TRICKFLIX/hbohd" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] HBO_HD
 http://79.127.235.177:1234/stream/TRICKFLIX/hbohd/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:39 group-title="TRICKFLIX" tvg-id="TRICKFLIX/hbohits" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] HBO_HITS
+#EXTINF:39 group-title="TRICKFLIX" tvg-id="TRICKFLIX/hbohits" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] HBO_HITS
 http://79.127.235.177:1234/stream/TRICKFLIX/hbohits/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:40 group-title="TRICKFLIX" tvg-id="TRICKFLIX/hbosignature" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] HBO_SIGNATURE
+#EXTINF:40 group-title="TRICKFLIX" tvg-id="TRICKFLIX/hbosignature" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] HBO_SIGNATURE
 http://79.127.235.177:1234/stream/TRICKFLIX/hbosignature/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:41 group-title="TRICKFLIX" tvg-id="TRICKFLIX/history" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] HISTORY
+#EXTINF:41 group-title="TRICKFLIX" tvg-id="TRICKFLIX/history" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] HISTORY
 http://79.127.235.177:1234/stream/TRICKFLIX/history/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:42 group-title="TRICKFLIX" tvg-id="TRICKFLIX/hitshd" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] HITS_HD
+#EXTINF:42 group-title="TRICKFLIX" tvg-id="TRICKFLIX/hitshd" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] HITS_HD
 http://79.127.235.177:1234/stream/TRICKFLIX/hitshd/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:43 group-title="TRICKFLIX" tvg-id="TRICKFLIX/hitsmovies" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] HITS_MOVIES
+#EXTINF:43 group-title="TRICKFLIX" tvg-id="TRICKFLIX/hitsmovies" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] HITS_MOVIES
 http://79.127.235.177:1234/stream/TRICKFLIX/hitsmovies/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:44 group-title="TRICKFLIX" tvg-id="TRICKFLIX/hitsnow" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] HITS_NOW
+#EXTINF:44 group-title="TRICKFLIX" tvg-id="TRICKFLIX/hitsnow" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] HITS_NOW
 http://79.127.235.177:1234/stream/TRICKFLIX/hitsnow/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:45 group-title="TRICKFLIX" tvg-id="TRICKFLIX/ibc13" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] IBC_13
+#EXTINF:45 group-title="TRICKFLIX" tvg-id="TRICKFLIX/ibc13" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] IBC_13
 http://79.127.235.177:1234/stream/TRICKFLIX/ibc13/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:46 group-title="TRICKFLIX" tvg-id="TRICKFLIX/jeepneytv" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] JEEPNEY_TV
+#EXTINF:46 group-title="TRICKFLIX" tvg-id="TRICKFLIX/jeepneytv" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] JEEPNEY_TV
 http://79.127.235.177:1234/stream/TRICKFLIX/jeepneytv/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:47 group-title="TRICKFLIX" tvg-id="TRICKFLIX/kplushd" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] K-PLUS_HD
+#EXTINF:47 group-title="TRICKFLIX" tvg-id="TRICKFLIX/kplushd" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] K-PLUS_HD
 http://79.127.235.177:1234/stream/TRICKFLIX/kplushd/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:48 group-title="TRICKFLIX" tvg-id="TRICKFLIX/sonuchannelhd" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] KAPAMILYA
+#EXTINF:48 group-title="TRICKFLIX" tvg-id="TRICKFLIX/sonuchannelhd" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] KAPAMILYA
 http://79.127.235.177:1234/stream/TRICKFLIX/sonuchannelhd/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:49 group-title="TRICKFLIX" tvg-id="TRICKFLIX/kbsworld" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] KBS_WORLD
+#EXTINF:49 group-title="TRICKFLIX" tvg-id="TRICKFLIX/kbsworld" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] KBS_WORLD
 http://79.127.235.177:1234/stream/TRICKFLIX/kbsworld/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:50 group-title="TRICKFLIX" tvg-id="TRICKFLIX/kix" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] KIX
+#EXTINF:50 group-title="TRICKFLIX" tvg-id="TRICKFLIX/kix" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] KIX
 http://79.127.235.177:1234/stream/TRICKFLIX/kix/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:51 group-title="TRICKFLIX" tvg-id="TRICKFLIX/knowledgechannel" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] KNOWLEDGE_CHANNEL
+#EXTINF:51 group-title="TRICKFLIX" tvg-id="TRICKFLIX/knowledgechannel" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] KNOWLEDGE_CHANNEL
 http://79.127.235.177:1234/stream/TRICKFLIX/knowledgechannel/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:52 group-title="TRICKFLIX" tvg-id="TRICKFLIX/lifetime" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] LIFETIME
+#EXTINF:52 group-title="TRICKFLIX" tvg-id="TRICKFLIX/lifetime" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] LIFETIME
 http://79.127.235.177:1234/stream/TRICKFLIX/lifetime/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:53 group-title="TRICKFLIX" tvg-id="TRICKFLIX/moonbugkids" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] MOONBUG_KIDS
+#EXTINF:53 group-title="TRICKFLIX" tvg-id="TRICKFLIX/moonbugkids" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] MOONBUG_KIDS
 http://79.127.235.177:1234/stream/TRICKFLIX/moonbugkids/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:54 group-title="TRICKFLIX" tvg-id="TRICKFLIX/morlive" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] MOR_LIVE
+#EXTINF:54 group-title="TRICKFLIX" tvg-id="TRICKFLIX/morlive" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] MOR_LIVE
 http://79.127.235.177:1234/stream/TRICKFLIX/morlive/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:55 group-title="TRICKFLIX" tvg-id="TRICKFLIX/mptv" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] MPTV
+#EXTINF:55 group-title="TRICKFLIX" tvg-id="TRICKFLIX/mptv" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] MPTV
 http://79.127.235.177:1234/stream/TRICKFLIX/mptv/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:56 group-title="TRICKFLIX" tvg-id="TRICKFLIX/mtv" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] MTV
+#EXTINF:56 group-title="TRICKFLIX" tvg-id="TRICKFLIX/mtv" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] MTV
 http://79.127.235.177:1234/stream/TRICKFLIX/mtv/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:57 group-title="TRICKFLIX" tvg-id="TRICKFLIX/myxph" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] MYX_PH
+#EXTINF:57 group-title="TRICKFLIX" tvg-id="TRICKFLIX/myxph" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] MYX_PH
 http://79.127.235.177:1234/stream/TRICKFLIX/myxph/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:58 group-title="TRICKFLIX" tvg-id="TRICKFLIX/newchannel" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] NEW_CHANNEL
+#EXTINF:58 group-title="TRICKFLIX" tvg-id="TRICKFLIX/newchannel" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] NEW_CHANNEL
 http://79.127.235.177:1234/stream/TRICKFLIX/newchannel/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:59 group-title="TRICKFLIX" tvg-id="TRICKFLIX/nickjr" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] NICK_JR
+#EXTINF:59 group-title="TRICKFLIX" tvg-id="TRICKFLIX/nickjr" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] NICK_JR
 http://79.127.235.177:1234/stream/TRICKFLIX/nickjr/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:60 group-title="TRICKFLIX" tvg-id="TRICKFLIX/nickelodeon" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] NICKELODEON
+#EXTINF:60 group-title="TRICKFLIX" tvg-id="TRICKFLIX/nickelodeon" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] NICKELODEON
 http://79.127.235.177:1234/stream/TRICKFLIX/nickelodeon/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:61 group-title="TRICKFLIX" tvg-id="TRICKFLIX/onenews" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] ONE_NEWS
+#EXTINF:61 group-title="TRICKFLIX" tvg-id="TRICKFLIX/onenews" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] ONE_NEWS
 http://79.127.235.177:1234/stream/TRICKFLIX/onenews/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:62 group-title="TRICKFLIX" tvg-id="TRICKFLIX/oneph" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] ONE_PH
+#EXTINF:62 group-title="TRICKFLIX" tvg-id="TRICKFLIX/oneph" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] ONE_PH
 http://79.127.235.177:1234/stream/TRICKFLIX/oneph/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:63 group-title="TRICKFLIX" tvg-id="TRICKFLIX/onesports" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] ONE_SPORTS+
+#EXTINF:63 group-title="TRICKFLIX" tvg-id="TRICKFLIX/onesports" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] ONE_SPORTS+
 http://79.127.235.177:1234/stream/TRICKFLIX/onesports/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:64 group-title="TRICKFLIX" tvg-id="TRICKFLIX/onesportshd" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] ONE_SPORTS_HD
+#EXTINF:64 group-title="TRICKFLIX" tvg-id="TRICKFLIX/onesportshd" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] ONE_SPORTS_HD
 http://79.127.235.177:1234/stream/TRICKFLIX/onesportshd/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:65 group-title="TRICKFLIX" tvg-id="TRICKFLIX/pbarush" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] PBA_RUSH
+#EXTINF:65 group-title="TRICKFLIX" tvg-id="TRICKFLIX/pbarush" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] PBA_RUSH
 http://79.127.235.177:1234/stream/TRICKFLIX/pbarush/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:66 group-title="TRICKFLIX" tvg-id="TRICKFLIX/pbbmain" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] PBB MAIN
+#EXTINF:66 group-title="TRICKFLIX" tvg-id="TRICKFLIX/pbbmain" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] PBB MAIN
 http://79.127.235.177:1234/stream/TRICKFLIX/pbbmain/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:67 group-title="TRICKFLIX" tvg-id="TRICKFLIX/pbo" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] PBO
+#EXTINF:67 group-title="TRICKFLIX" tvg-id="TRICKFLIX/pbo" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] PBO
 http://79.127.235.177:1234/stream/TRICKFLIX/pbo/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:68 group-title="TRICKFLIX" tvg-id="TRICKFLIX/premiersports" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] PREMIER_SPORTS
+#EXTINF:68 group-title="TRICKFLIX" tvg-id="TRICKFLIX/premiersports" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] PREMIER_SPORTS
 http://79.127.235.177:1234/stream/TRICKFLIX/premiersports/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:69 group-title="TRICKFLIX" tvg-id="TRICKFLIX/premiersportstennishd" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] PREMIER_SPORTS_TENNIS_HD
+#EXTINF:69 group-title="TRICKFLIX" tvg-id="TRICKFLIX/premiersportstennishd" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] PREMIER_SPORTS_TENNIS_HD
 http://79.127.235.177:1234/stream/TRICKFLIX/premiersportstennishd/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:70 group-title="TRICKFLIX" tvg-id="TRICKFLIX/ptv4" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] PTV_4
+#EXTINF:70 group-title="TRICKFLIX" tvg-id="TRICKFLIX/ptv4" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] PTV_4
 http://79.127.235.177:1234/stream/TRICKFLIX/ptv4/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:71 group-title="TRICKFLIX" tvg-id="TRICKFLIX/rockentertainment" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] ROCK_ENTERTAINMENT
+#EXTINF:71 group-title="TRICKFLIX" tvg-id="TRICKFLIX/rockentertainment" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] ROCK_ENTERTAINMENT
 http://79.127.235.177:1234/stream/TRICKFLIX/rockentertainment/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:72 group-title="TRICKFLIX" tvg-id="TRICKFLIX/rockentertainmenthd" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] ROCK_ENTERTAINMENT_HD
+#EXTINF:72 group-title="TRICKFLIX" tvg-id="TRICKFLIX/rockentertainmenthd" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] ROCK_ENTERTAINMENT_HD
 http://79.127.235.177:1234/stream/TRICKFLIX/rockentertainmenthd/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:73 group-title="TRICKFLIX" tvg-id="TRICKFLIX/rockextremehd" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] ROCK_EXTREME_HD
+#EXTINF:73 group-title="TRICKFLIX" tvg-id="TRICKFLIX/rockextremehd" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] ROCK_EXTREME_HD
 http://79.127.235.177:1234/stream/TRICKFLIX/rockextremehd/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:74 group-title="TRICKFLIX" tvg-id="TRICKFLIX/rptv" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] RPTV
+#EXTINF:74 group-title="TRICKFLIX" tvg-id="TRICKFLIX/rptv" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] RPTV
 http://79.127.235.177:1234/stream/TRICKFLIX/rptv/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:75 group-title="TRICKFLIX" tvg-id="TRICKFLIX/sarisari" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] SARI-SARI
+#EXTINF:75 group-title="TRICKFLIX" tvg-id="TRICKFLIX/sarisari" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] SARI-SARI
 http://79.127.235.177:1234/stream/TRICKFLIX/sarisari/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:76 group-title="TRICKFLIX" tvg-id="TRICKFLIX/tapactionflix" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] TAP_ACTIONFLIX
+#EXTINF:76 group-title="TRICKFLIX" tvg-id="TRICKFLIX/tapactionflix" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] TAP_ACTIONFLIX
 http://79.127.235.177:1234/stream/TRICKFLIX/tapactionflix/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:77 group-title="TRICKFLIX" tvg-id="TRICKFLIX/tapedge" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] TAP_EDGE
+#EXTINF:77 group-title="TRICKFLIX" tvg-id="TRICKFLIX/tapedge" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] TAP_EDGE
 http://79.127.235.177:1234/stream/TRICKFLIX/tapedge/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:78 group-title="TRICKFLIX" tvg-id="TRICKFLIX/tapmovies" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] TAP_MOVIES
+#EXTINF:78 group-title="TRICKFLIX" tvg-id="TRICKFLIX/tapmovies" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] TAP_MOVIES
 http://79.127.235.177:1234/stream/TRICKFLIX/tapmovies/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:79 group-title="TRICKFLIX" tvg-id="TRICKFLIX/tapsports" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] TAP_SPORTS
+#EXTINF:79 group-title="TRICKFLIX" tvg-id="TRICKFLIX/tapsports" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] TAP_SPORTS
 http://79.127.235.177:1234/stream/TRICKFLIX/tapsports/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:80 group-title="TRICKFLIX" tvg-id="TRICKFLIX/taptv" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] TAP_TV
+#EXTINF:80 group-title="TRICKFLIX" tvg-id="TRICKFLIX/taptv" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] TAP_TV
 http://79.127.235.177:1234/stream/TRICKFLIX/taptv/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:81 group-title="TRICKFLIX" tvg-id="TRICKFLIX/techstorm" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] TECH_STORM
+#EXTINF:81 group-title="TRICKFLIX" tvg-id="TRICKFLIX/techstorm" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] TECH_STORM
 http://79.127.235.177:1234/stream/TRICKFLIX/techstorm/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:82 group-title="TRICKFLIX" tvg-id="TRICKFLIX/teleradioserbisyo" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] TELERADIO_SERBISYO
+#EXTINF:82 group-title="TRICKFLIX" tvg-id="TRICKFLIX/teleradioserbisyo" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] TELERADIO_SERBISYO
 http://79.127.235.177:1234/stream/TRICKFLIX/teleradioserbisyo/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:83 group-title="TRICKFLIX" tvg-id="TRICKFLIX/tfc" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] TFC
+#EXTINF:83 group-title="TRICKFLIX" tvg-id="TRICKFLIX/tfc" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] TFC
 http://79.127.235.177:1234/stream/TRICKFLIX/tfc/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:84 group-title="TRICKFLIX" tvg-id="TRICKFLIX/thrill" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] THRILL
+#EXTINF:84 group-title="TRICKFLIX" tvg-id="TRICKFLIX/thrill" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] THRILL
 http://79.127.235.177:1234/stream/TRICKFLIX/thrill/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:85 group-title="TRICKFLIX" tvg-id="TRICKFLIX/tmc" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] TMC
+#EXTINF:85 group-title="TRICKFLIX" tvg-id="TRICKFLIX/tmc" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] TMC
 http://79.127.235.177:1234/stream/TRICKFLIX/tmc/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:86 group-title="TRICKFLIX" tvg-id="TRICKFLIX/truefmtv" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] TRUE_FM_TV
+#EXTINF:86 group-title="TRICKFLIX" tvg-id="TRICKFLIX/truefmtv" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] TRUE_FM_TV
 http://79.127.235.177:1234/stream/TRICKFLIX/truefmtv/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:87 group-title="TRICKFLIX" tvg-id="TRICKFLIX/tv5" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] TV5
+#EXTINF:87 group-title="TRICKFLIX" tvg-id="TRICKFLIX/tv5" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] TV5
 http://79.127.235.177:1234/stream/TRICKFLIX/tv5/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:88 group-title="TRICKFLIX" tvg-id="TRICKFLIX/tvmaria" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] TV_MARIA
+#EXTINF:88 group-title="TRICKFLIX" tvg-id="TRICKFLIX/tvmaria" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] TV_MARIA
 http://79.127.235.177:1234/stream/TRICKFLIX/tvmaria/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:89 group-title="TRICKFLIX" tvg-id="TRICKFLIX/tvnhd" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] TVN_HD
+#EXTINF:89 group-title="TRICKFLIX" tvg-id="TRICKFLIX/tvnhd" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] TVN_HD
 http://79.127.235.177:1234/stream/TRICKFLIX/tvnhd/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:90 group-title="TRICKFLIX" tvg-id="TRICKFLIX/tvnmoviespino" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] tVN_MOVIES_PINOY
+#EXTINF:90 group-title="TRICKFLIX" tvg-id="TRICKFLIX/tvnmoviespino" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] tVN_MOVIES_PINOY
 http://79.127.235.177:1234/stream/TRICKFLIX/tvnmoviespino/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:91 group-title="TRICKFLIX" tvg-id="TRICKFLIX/tvnmovies" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] TVNMOVIES
+#EXTINF:91 group-title="TRICKFLIX" tvg-id="TRICKFLIX/tvnmovies" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] TVNMOVIES
 http://79.127.235.177:1234/stream/TRICKFLIX/tvnmovies/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:92 group-title="TRICKFLIX" tvg-id="TRICKFLIX/tvup" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] TVUP
+#EXTINF:92 group-title="TRICKFLIX" tvg-id="TRICKFLIX/tvup" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] TVUP
 http://79.127.235.177:1234/stream/TRICKFLIX/tvup/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:93 group-title="TRICKFLIX" tvg-id="TRICKFLIX/uaapvarsitychannel" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] UAAP_VARSITY_CHANNEL
+#EXTINF:93 group-title="TRICKFLIX" tvg-id="TRICKFLIX/uaapvarsitychannel" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] UAAP_VARSITY_CHANNEL
 http://79.127.235.177:1234/stream/TRICKFLIX/uaapvarsitychannel/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:94 group-title="TRICKFLIX" tvg-id="TRICKFLIX/vivacinema" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] VIVACINEMA
+#EXTINF:94 group-title="TRICKFLIX" tvg-id="TRICKFLIX/vivacinema" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] VIVACINEMA
 http://79.127.235.177:1234/stream/TRICKFLIX/vivacinema/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:95 group-title="TRICKFLIX" tvg-id="TRICKFLIX/warnertvhd" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[TRICKFLIX] WARNER_TV_HD
+#EXTINF:95 group-title="TRICKFLIX" tvg-id="TRICKFLIX/warnertvhd" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] WARNER_TV_HD
 http://79.127.235.177:1234/stream/TRICKFLIX/warnertvhd/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
