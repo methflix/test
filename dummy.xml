@@ -3,7 +3,7 @@
     <channel id="tvg-id-channel1">
         <display-name lang="pt">Channel 1</display-name>
     </channel>
-    <programme start="20250105000000 +0000" stop="20250105060000 +0000" channel="tvg-id-GMA TV">
+    <programme start="20250105000000 +0000" stop="20250105060000 +0000" channel="tvg-id-channel1">
         <title lang="pt">Program Title for Channel 1</title>
         <desc lang="pt">Creative Program Description for Channel 1</desc>
     </programme>
