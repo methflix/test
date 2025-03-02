@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-id="" channel-number="1" group-title="Local", tvN HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=273bdcd5a28e4d028775576e81366c36:12dab252a38ae2dfb08aff25819b6ef9
+https://ucdn.starhubgo.com/bpk-tv/tvNHD/output/manifest.mpd
