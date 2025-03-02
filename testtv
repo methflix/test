@@ -4,3 +4,11 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=273bdcd5a28e4d028775576e81366c36:12dab252a38ae2dfb08aff25819b6ef9
 https://ucdn.starhubgo.com/bpk-tv/tvNHD/output/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="" channel-number="1" group-title="Local", Animax HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8421c9bc0b5241e59fe4377405a5305e:a8570f08dd26e5210041d85d7a84d6f4
+https://ucdn.starhubgo.com/bpk-tv/AnimaxHD/output/manifest.mpd
