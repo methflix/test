@@ -641,3 +641,143 @@ https://ucdn.starhubgo.com/bpk-tv/ZeeTamilHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
 https://ucdn.starhubgo.com/bpk-tv/ZeeTVHD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" channel-number="" group-title="",beIN Sports HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
+https://ucdn.starhubgo.com/bpk-tv/beINSportsHD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" channel-number="" group-title="",beIN Sports 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
+https://ucdn.starhubgo.com/bpk-tv/beINSports2HD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" channel-number="" group-title="",beIN Sports 3 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
+https://ucdn.starhubgo.com/bpk-tv/beINSports3HD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" channel-number="" group-title="",Premier League HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
+https://ucdn.starhubgo.com/bpk-tv/PremierLeagueHD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" channel-number="" group-title="",Premier League 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
+https://ucdn.starhubgo.com/bpk-tv/PremierLeague2HD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" channel-number="" group-title="",Premier League 3 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
+https://ucdn.starhubgo.com/bpk-tv/PremierLeague3HD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" channel-number="" group-title="",Premier League 4 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
+https://ucdn.starhubgo.com/bpk-tv/PremierLeague4HD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" channel-number="" group-title="",Premier League 5 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
+https://ucdn.starhubgo.com/bpk-tv/PremierLeague5HD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" channel-number="" group-title="",Premier League 6 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
+https://ucdn.starhubgo.com/bpk-tv/PremierLeague6HD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" channel-number="" group-title="",Hub Premier 1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
+https://ucdn.starhubgo.com/bpk-tv/HubPremier1HD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" channel-number="" group-title="",Hub Premier 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
+https://ucdn.starhubgo.com/bpk-tv/HubPremier2HD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" channel-number="" group-title="",Hub Premier 3 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
+https://ucdn.starhubgo.com/bpk-tv/HubPremier3HD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" channel-number="" group-title="",Hub Premier 4 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
+https://ucdn.starhubgo.com/bpk-tv/HubPremier4HD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" channel-number="" group-title="",Hub Premier 5 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
+https://ucdn.starhubgo.com/bpk-tv/HubPremier5HD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" channel-number="" group-title="",Hub Premier 6 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
+https://ucdn.starhubgo.com/bpk-tv/HubPremier6HD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" channel-number="" group-title="",Hub Premier 7 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
+https://ucdn.starhubgo.com/bpk-tv/HubPremier7HD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" channel-number="" group-title="",Hub Premier 8 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
+https://ucdn.starhubgo.com/bpk-tv/HubPremier8HD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" channel-number="" group-title="",Hub Premier 9 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
+https://ucdn.starhubgo.com/bpk-tv/HubPremier9HD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" channel-number="" group-title="",Hub Premier 10 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
+https://ucdn.starhubgo.com/bpk-tv/HubPremier10HD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" channel-number="" group-title="",Hub Premier 11 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
+https://ucdn.starhubgo.com/bpk-tv/HubPremier11HD/output/manifest.mpd
