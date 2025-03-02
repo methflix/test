@@ -6,7 +6,7 @@
 https://ucdn.starhubgo.com/bpk-tv/tvNHD/output/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="" channel-number="1" group-title="Local", Animax HD
+#EXTINF:-1 tvg-id="" channel-number="2" group-title="Local", Animax HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
